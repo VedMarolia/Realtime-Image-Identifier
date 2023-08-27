@@ -1,0 +1,23 @@
+body{
+    background-image: url("image_i.avif");
+    background-repeat: no-repeat;
+}
+
+#first-div{
+    height: 200px;
+    width: 100%;
+}
+
+#second-div{
+    font-size: 15px;
+    width: 60%;
+    border-radius: 30px;
+}
+
+canvas{
+    border: 3px;
+    border-style: dotted;
+    margin-top: 20px;
+}
+
+
